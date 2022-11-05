@@ -15,13 +15,13 @@ plugins:
 - jekyll-seo-tag
 authors:
   sal:
-    name: Sal
-    site: https://www.wowthemes.net
+    name: Isai
+    site: https://emocionluz.com
     avatar: "/assets/images/avatar1.jpg"
-    bio: Hi, I am Sal, the author of Mundana, the theme you're currently previewing.
-      I hope you like it!
-    email: wowthemesnet@gmail.com
-    twitter: https://twitter.com/wowthemesnet
+    bio: Hola, soy Isai, escribo para el blog de EmocionLUZ y colaboro en proyectos
+      de iluminación y control.
+    email: isai@emocionluz.com
+    twitter: https://twitter.com/emocionluz
   jane:
     name: Jane
     site: https://www.wowthemes.net
