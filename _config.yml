@@ -14,7 +14,7 @@ plugins:
 - jekyll-paginate
 - jekyll-seo-tag
 authors:
-  sal:
+  isai:
     name: Isai
     site: https://emocionluz.com
     avatar: "/assets/images/avatar1.jpg"
@@ -22,7 +22,7 @@ authors:
       de diseño de iluminación y control.
     email: isai@emocionluz.com
     twitter: https://twitter.com/emocionluz
-  jane:
+  gerardo:
     name: Gerardo
     site: https://emocionluz.com
     avatar: "/assets/images/avatar2.jpg"
