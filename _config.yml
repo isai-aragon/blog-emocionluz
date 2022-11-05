@@ -23,12 +23,13 @@ authors:
     email: isai@emocionluz.com
     twitter: https://twitter.com/emocionluz
   jane:
-    name: Jane
-    site: https://www.wowthemes.net
+    name: Gerardo
+    site: https://emocionluz.com
     avatar: "/assets/images/avatar2.jpg"
-    bio: Blogger, fashionista, love to explore new ideas and write on my morning coffee!
-    email: fakemail@gmail.com
-    twitter: https://twitter.com/wowthemesnet
+    bio: Hola, soy Gerardo, soy arquitecto colaborador de EmociónLUZ y de proyectos
+      de diseño de interiores e iluminación.
+    email: contacto@emocionluz.com
+    twitter: https://twitter.com/emocionluz
 defaults:
 - scope:
     path: _posts
